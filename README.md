@@ -6,5 +6,5 @@ This repository tracks my implementation of an $L$-layer neural network engine b
 ### Current Milestone:
 - [x] Vectorized Parameter Initialization
 - [x] Multilayer Forward Propagation Loop
-- [ ] Multilayer Backward Propagation Calculus (In Progress)
-- [ ] Object-Oriented Interface Wrapper
+- [x] Multilayer Backward Propagation Calculus (In Progress)
+- [x] Object-Oriented Interface Wrapper
