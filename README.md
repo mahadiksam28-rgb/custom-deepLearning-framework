@@ -1,5 +1,6 @@
 # Custom OOP Deep Learning Framework 
 > **Status:** 🟡 Work in Progress (Phase 1 Portfolio Project)
+> Currently building SQL pipeline
 
 This repository tracks my implementation of an $L$-layer neural network engine built from scratch using NumPy, coupled with a local SQL data pipeline.
 
